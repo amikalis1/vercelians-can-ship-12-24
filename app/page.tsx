@@ -25,4 +25,3 @@ export default async function Home(url: any) {
 
   return <Profile username={yourGithubUsername} geo={geo} />;
 }
- 
